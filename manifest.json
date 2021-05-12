@@ -34,9 +34,9 @@
       "type": "image/png"
     }
   ],
-  "start_url": "/",
+  "start_url": "/a64monitor/",
   "background_color": "#3367D6",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/a64monitor/",
   "theme_color": "#3367D6"
 }
