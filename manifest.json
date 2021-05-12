@@ -1,7 +1,7 @@
 {
-  "short_name": "Weather",
-  "name": "Weather - Do I need an umbrella?",
-  "description": "Weather forecast information",
+  "short_name": "AIDA64",
+  "name": "AIDA64 - Monitor",
+  "description": "Hardware monitor via RemoteSensor™",
   "icons": [
     {
       "src": "https://via.placeholder.com/48",
@@ -34,9 +34,9 @@
       "type": "image/png"
     }
   ],
+  "orientation": "landscape",
   "start_url": "/a64monitor/",
-  "background_color": "#3367D6",
-  "display": "standalone",
+  "display": "fullscreen",
   "scope": "/a64monitor/",
   "theme_color": "#3367D6"
 }
