@@ -12,6 +12,5 @@
   "orientation": "landscape",
   "start_url": "http://192.168.0.27:2300",
   "display": "fullscreen",
-  "scope": "/",
   "theme_color": "#3367D6"
 }
